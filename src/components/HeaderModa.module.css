@@ -1,0 +1,11 @@
+.fundo {
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+}
+
+.divMenu {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
